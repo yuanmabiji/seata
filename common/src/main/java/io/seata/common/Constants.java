@@ -18,7 +18,7 @@ package io.seata.common;
 import java.nio.charset.Charset;
 
 /**
- * The type Constants.
+ * The type Constants.测试上传
  *
  * @author slievrly
  */
